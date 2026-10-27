@@ -6,7 +6,12 @@
  "category": "私家集",
  "kind": "kashu",
  "author": "小沢蘆庵",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "江戸時代中期",
+  "author": "小沢蘆庵",
+  "desc": "京の歌人小沢蘆庵の家集。平易な言葉で心を詠む「ただごと歌」を唱えた。"
+ },
  "editions": [
   {
    "pid": "1913662",
